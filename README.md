@@ -1,4 +1,4 @@
-# Stacking Ensemble for Sales & Fraud Analysis: Forecasting, Detection, and Clustering
+# Stacking Ensemble for Sales & Fraud Analysis: Regression, Classification, and Clustering
 ![Image](https://github.com/user-attachments/assets/823397ef-ba90-4c1c-9142-a2298f3095ac)
 
 ![Image](https://github.com/user-attachments/assets/78c7c80a-1577-4c5c-9674-f8c6d1f17bc2)
